@@ -1,0 +1,11 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Donnees personnelles de l'application (liste de taches locale)
+todo_data.json
+todo_data.json.tmp
+todo_data.json.corrompu
+
+# Configuration locale de l'editeur / Claude Code
+.claude/
